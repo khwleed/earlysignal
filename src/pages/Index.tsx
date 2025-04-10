@@ -323,7 +323,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
               <h3 className="text-xl font-bold text-white mb-4">
-                Founder<span className="text-brand-400">Match</span>
+                EarlySignal
               </h3>
               <p className="mb-4">
                 Transforming the way founders and investors connect through the power of AI.
